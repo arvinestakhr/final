@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient( rgba(170, 157, 255, 1), rgb(90, 74, 163));
+
+
+}
+.first{
+    background-color: rgba(35, 28, 45, 0.899);
+    border-radius: 20px;
+    margin-bottom: 500px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    font-family: 'Lucida Sans';
+    width: 250px;
+    height: 300px
+    
+}
+
+.call {
+    
+    text-align: center;
+    color: aliceblue;
+}
+.second{
+    border-radius: 15px;
+    background-color: rgba(35, 28, 45, 0.899);
+    
+    margin-left: 22px;
+    margin-right: 20px;
+    width: 200px;
+    height: 25px;
+
+
+}
+.second:hover{
+    border-style: solid;
+    border-color: aliceblue;
+    background-color:rgb(90, 74, 163) ;
+    transition: 0.3s;
+    cursor:text;
+}
+.mn:hover{
+    border-style: solid;
+    border-color: aliceblue;
+    background-color:rgb(90, 74, 163) ;
+    transition: 0.3s;
+    cursor:text;
+}
+.sec{
+    color: aliceblue;
+    margin-bottom: 0px;
+    margin-left: 18px;
+}
+.tip{
+    color: aliceblue;
+    margin-left: 18px;
+    margin-bottom: 0px;
+}
+.mn{
+    border-radius: 15px;
+    background-color: rgba(35, 28, 45, 0.899);
+    margin-left: 22px;
+    margin-right: 20px;
+    width: 200px;
+    height: 25px;
+}
+pre{
+    color: aliceblue;
+    font-family: 'Lucida Sans';
+    font-size: small;
+    margin-left: 20px;
+}
